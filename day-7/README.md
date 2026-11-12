@@ -1,0 +1,3 @@
+propsdrilling:- when we call one component to another by using props from parent to nested child this situation is known as propsdrilling .
+
+parent ->child1->child2->and so on...

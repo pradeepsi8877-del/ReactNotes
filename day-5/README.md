@@ -7,9 +7,9 @@ Hooks are special functions in React that help us manage data, handle side effec
 useState(controlled component) :- react manage the form and change its state
 useRef (uncontrolled component) :-dom manage form
 useEffect
+useContext
 useMemo
 useCallback
-useContext
 useReducer
 useLayoutEffect
 
